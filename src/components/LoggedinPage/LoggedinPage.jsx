@@ -13,7 +13,7 @@ const LoggedinPage = () => {
                     <Container>
                         <Row className="d-flex align-items-center justify-content-center">
                             <Col lg="6" xs="6" className="text-center">
-                                <h2>Dashboard</h2>
+                                <h2 style={{ color: 'rgb(255, 0, 98)', fontWeight: '700' }}>Dashboard</h2>
                             </Col>
                             <Col lg="6" xs="6" className="text-center">
                                 <Link to="/">
@@ -32,7 +32,7 @@ const LoggedinPage = () => {
                                     <Col lg="4">
                                         <Card className="analysis-card align-items-center justify-content-center">
                                             <Card.Text>
-                                                10
+                                                0
                                             </Card.Text>
                                             <Card.Title>Hearts Sent</Card.Title>
                                         </Card>
@@ -40,7 +40,7 @@ const LoggedinPage = () => {
                                     <Col lg="4">
                                         <Card className="analysis-card analysis-card align-items-center justify-content-center">
                                             <Card.Text>
-                                                2
+                                                0
                                             </Card.Text>
                                             <Card.Title>Hearts Received</Card.Title>
                                         </Card>
@@ -74,19 +74,6 @@ const LoggedinPage = () => {
                                 </Form.Group>
                             </Form>
                         </Row>
-
-                        <Row>
-                            <Col lg="3" xs="12">
-                                <ListGroup variant="flush">
-                                    <ListGroup.Item>Student 1</ListGroup.Item>
-                                    <ListGroup.Item>Student 2</ListGroup.Item>
-                                    <ListGroup.Item>Student 3</ListGroup.Item>
-                                    <ListGroup.Item>Student 4</ListGroup.Item>
-                                </ListGroup>
-                            </Col>
-
-                        </Row>
-
                     </Container>
                 </Card>
             </Container>

@@ -16,3 +16,7 @@
   background-color: rgba(248, 63, 134, 0.8);
   transition: all 0.4s ease-in-out;
 }
+
+.logintitle {
+  color: rgb(255, 0, 98);
+}
