@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Route path="/dashboard" component={LoggedinPage} />
-      <Route path="/" exact component={LoginPage} />
+      <Route path="/Puppy-Love-Frontend" exact component={LoginPage} />
       {/* <LoginPage />
       <LoggedinPage /> */}
     </Router>
