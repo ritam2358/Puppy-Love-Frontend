@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Puppy-Love-Frontend/static/css/main.939a0d9a.chunk.css",
-    "main.js": "/Puppy-Love-Frontend/static/js/main.79711d97.chunk.js",
-    "main.js.map": "/Puppy-Love-Frontend/static/js/main.79711d97.chunk.js.map",
+    "main.js": "/Puppy-Love-Frontend/static/js/main.9fde1b5a.chunk.js",
+    "main.js.map": "/Puppy-Love-Frontend/static/js/main.9fde1b5a.chunk.js.map",
     "runtime-main.js": "/Puppy-Love-Frontend/static/js/runtime-main.64017f90.js",
     "runtime-main.js.map": "/Puppy-Love-Frontend/static/js/runtime-main.64017f90.js.map",
     "static/css/2.818011ed.chunk.css": "/Puppy-Love-Frontend/static/css/2.818011ed.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.87228eac.chunk.js",
     "static/css/main.939a0d9a.chunk.css",
-    "static/js/main.79711d97.chunk.js"
+    "static/js/main.9fde1b5a.chunk.js"
   ]
 }
