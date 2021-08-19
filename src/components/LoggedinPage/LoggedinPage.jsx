@@ -16,7 +16,7 @@ const LoggedinPage = () => {
                                 <h2 style={{ color: 'rgb(255, 0, 98)', fontWeight: '700' }}>Dashboard</h2>
                             </Col>
                             <Col lg="6" xs="6" className="text-center">
-                                <Link to="/">
+                                <Link to="/Puppy-Love-Frontend">
                                     <button className="student-button">
                                         Log Out
                                     </button>
