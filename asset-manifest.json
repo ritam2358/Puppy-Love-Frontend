@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Puppy-Love-Frontend/static/css/main.939a0d9a.chunk.css",
+    "main.js": "/Puppy-Love-Frontend/static/js/main.2d2a1e54.chunk.js",
+    "main.js.map": "/Puppy-Love-Frontend/static/js/main.2d2a1e54.chunk.js.map",
+    "runtime-main.js": "/Puppy-Love-Frontend/static/js/runtime-main.64017f90.js",
+    "runtime-main.js.map": "/Puppy-Love-Frontend/static/js/runtime-main.64017f90.js.map",
+    "static/css/2.818011ed.chunk.css": "/Puppy-Love-Frontend/static/css/2.818011ed.chunk.css",
+    "static/js/2.87228eac.chunk.js": "/Puppy-Love-Frontend/static/js/2.87228eac.chunk.js",
+    "static/js/2.87228eac.chunk.js.map": "/Puppy-Love-Frontend/static/js/2.87228eac.chunk.js.map",
+    "index.html": "/Puppy-Love-Frontend/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Puppy-Love-Frontend/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.939a0d9a.chunk.css.map": "/Puppy-Love-Frontend/static/css/main.939a0d9a.chunk.css.map",
+    "static/js/2.87228eac.chunk.js.LICENSE.txt": "/Puppy-Love-Frontend/static/js/2.87228eac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64017f90.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.87228eac.chunk.js",
+    "static/css/main.939a0d9a.chunk.css",
+    "static/js/main.2d2a1e54.chunk.js"
+  ]
+}
